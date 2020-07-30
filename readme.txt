@@ -105,8 +105,10 @@ CR : https://kittipongint.com/แนะนำฟอนต์-noto-sans-thai/
 CR : https://www.designil.com/how-to-embed-web-font.html
 
 =================================================================================================
-ตัวอย่างเว็บจริงที่ใช้ NOTO font
+ตัวอย่างเว็บจริงที่ใช้ NOTO THAI font
 CR : https://nakomah.com/blog/vscode-php-snippets-สำหรับฉัน
+CR : https://thaifaces.com/   <---- ตรง ทดลองพิมพ์ มันคือ NOTO Thai
+CR : http://jelep.bru.ac.th/2018/04/29/best-smartwatch-the-top-choices-you-can-buy-in-2018/?lang=th   <---- ไม่มั่นใจอาจจะใช่ NOTO THAI
 =================================================================================================
 
 
