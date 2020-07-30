@@ -108,7 +108,8 @@ CR : https://www.designil.com/how-to-embed-web-font.html
 ตัวอย่างเว็บจริงที่ใช้ NOTO THAI font
 CR : https://nakomah.com/blog/vscode-php-snippets-สำหรับฉัน
 CR : https://thaifaces.com/   <---- ตรง ทดลองพิมพ์ มันคือ NOTO Thai
-CR : http://jelep.bru.ac.th/2018/04/29/best-smartwatch-the-top-choices-you-can-buy-in-2018/?lang=th   <---- ไม่มั่นใจอาจจะใช่ NOTO THAI
+CR : http://jelep.bru.ac.th/2018/04/29/best-smartwatch-the-top-choices-you-can-buy-in-2018/?lang=th   (ใจดี มี link ให้ DL font ด้วย แต่ดันเปลี่ยนชื่อ font เป็นของตัวเองซะแล้ว)
+     ^^^ ---- ไม่มั่นใจอาจจะใช่ NOTO THAI แต่เท่าที่ดูใน https://www.designil.com/free-font-google-noto.html เทียบอักษรแล้วยังไงก็ไม่ใช่ SUKUMVIT SET และไม่ใช่ KANIT แน่นอน
 =================================================================================================
 
 
